@@ -1,0 +1,139 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "date": "July 6, 2020",
+      "title": "Vite with Preact and TypeScript",
+      "author": "DanAbramov",
+      "ttr": "6 ",
+      "img": "https://opencollective.com/redux-saga/backer/0/avatar.svg",
+      "desc": "Vite is a new web development build tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box. Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more..",
+      "body": "Vite is a new web development build tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 2,
+      "date": "September 11, 2019",
+
+      "title": "NodeJS",
+      "author": "BraianHolt",
+      "ttr": "4 ",
+      "img": "https://fettblog.eu/wp-content/uploads/me.jpg",
+      "desc": "Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence.",
+      "body": "Vite is a new web development build tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 3,
+      "date": "May 4, 2020",
+
+      "title": "Flutter",
+      "author": "StephenGrider",
+      "ttr": "8 ",
+      "img": "https://opencollective.com/redux-saga/backer/6/avatar.svg",
+      "desc": "Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence.",
+      "body": "Vite is a new web development build tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 4,
+      "date": "March 6, 2019",
+
+      "title": "Gatsby",
+
+      "author": "BradTraversy",
+      "ttr": "5 ",
+      "img": "https://opencollective.com/redux-saga/backer/3/avatar.svg",
+      "desc": "Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence.",
+      "body": "Vite is a new web development build tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 5,
+      "date": "August 11, 2019",
+      "title": "NextJS",
+      "author": "zietvercel",
+      "ttr": "12 ",
+      "img": "https://opencollective.com/redux-saga/backer/7/avatar.svg",
+      "desc": "Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence.",
+      "body": "Vite is a new web development build Music is sound that has been organized by using rhythm, melod tool by Evan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 9,
+      "title": "React Native",
+      "date": "June 6, 2019",
+      "author": "flipojira",
+      "ttr": "7 ",
+      "img": "https://opencollective.com/redux-saga/backer/10/avatar.svg",
+      "desc": "this is the barnad new  a magic sound that increase the scence of humans magic sound that increase the scence of humans",
+      "body": "a magic sound that increase the scence of humans a magic sound that increase the scence of humansEvan You, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    },
+    {
+      "id": 10,
+      "title": "GraphQL",
+      "date": "December 6, 2019",
+      "author": "MaximillianSchurzer",
+      "ttr": "10 ",
+      "img": "https://opencollective.com/redux-saga/backer/11/avatar.svg ",
+      "body": "electronic and The Beach. Murphy composed the scores to Boyle's 28 Days Later and MillionsVite is a new web development build tool by Evan by the electronic band Underworld and film score composer John Murphy.[1] UnderworldYou, the creator of Vue.js. It’s in early beta at the time of this writing and was mainly created for Vue 3, but it’s also able to build React and Preact and has TypeScript support out of the box.Vite’s biggest difference to other tools is that for development, it relies on the basic loading capabilities of ECMAScript modules. This means that your import statements translate are executed natively by the browser. Vite’s task is to serve your files. Nothing more. Well, a little bit more.If you have a file that needs transpilation, Vite transpiles them to regular JS for you so the browser knows what to do. This means that. Vite really feels like it could be the build tool of all build tools. I’m very impressed! There are also some templates for Vue 3, React and Preact available. But at the time of writing, Preact didn’t have any templates with TypeScript support. So I added my own, and this is what I did.Please also check out Snowpack by Fred K. Schott. A very similar approach and a very detailled explanation on some ground concepts behind O(1) build tooling. Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence. This might be null, after all! Next, let your tsx files know which factory and fragment factory you are using. Since we are not injecting globally anymore, we need to import them in each file.Since we have TypeScript now up and running, our editor already gives us a sweet error message that we use document.getElementById('app') with way too much confidence.Music is sound that has been organized by using rhythm, melody or harmony. ... Tunes are made of notes that go up or down or stay on the same pitch. Music often has rhythm. Rhythm is the way the musical sounds and silences are put together in a sequence, This might be null, after all!"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "ReactJS",
+      "rate": 5,
+      "Instructors": "DanAbramov",
+      "students": "101,364 ",
+      "img": "https://img-a.udemycdn.com/course/240x135/1411694_0862.jpg ",
+      "desc": "Dive in and learn ReactJS from scratch! ",
+      "InsPic": "https://opencollective.com/redux-saga/backer/0/avatar.svg"
+    },
+    {
+      "id": 2,
+      "title": "NodeJS",
+      "rate": 4.3,
+      "Instructors": "BraianHolt",
+      "students": "50,684 ",
+      "img": "https://img-a.udemycdn.com/course/240x135/1638522_fbdf.jpg ",
+      "desc": "Dive in and learn NodeJS from scratch! ",
+      "InsPic": "https://fettblog.eu/wp-content/uploads/me.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Flutter",
+      "rate": 1.6,
+      "Instructors": "StephenGrider",
+      "students": "8,998 ",
+      "img": "https://img-a.udemycdn.com/course/240x135/1708340_7108_4.jpg",
+      "desc": "Dive in and learn Flutter from scratch! ",
+      "InsPic": "https://opencollective.com/redux-saga/backer/6/avatar.svg"
+    },
+    {
+      "id": 4,
+      "title": "GatsbyJS",
+      "rate": 1.4,
+      "Instructors": "BradTraversy",
+      "students": "11,984",
+      "img": "https://img-a.udemycdn.com/course/240x135/2979652_bf6b.jpg ",
+      "desc": "Dive in and learn GatsbyJS from scratch! ",
+      "InsPic": "https://opencollective.com/redux-saga/backer/3/avatar.svg"
+    },
+    {
+      "id": 5,
+      "title": "NextJS",
+      "rate": 2.6,
+      "Instructors": "zietvercel",
+      "students": "3,865 ",
+      "img": "https://img-a.udemycdn.com/course/240x135/2213666_f303.jpg",
+      "desc": "Dive in and learn NextJS from scratch! ",
+      "InsPic": "https://opencollective.com/redux-saga/backer/7/avatar.svg"
+    },
+    {
+      "id": 6,
+      "title": "GraphQL",
+      "rate": 3.2,
+      "Instructors": "MaximillianSchurzer",
+      "students": "2,568 ",
+      "img": "https://img-a.udemycdn.com/course/240x135/3291852_2998_2.jpg ",
+      "desc": "Dive in and learn GraphQL from scratch! ",
+      "InsPic": "https://opencollective.com/redux-saga/backer/11/avatar.svg "
+    }
+  ]
+}
